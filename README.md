@@ -3,7 +3,7 @@
 : 위메프 내의 상품 임베딩 방법의 후보로 준비
 
 ## # 동기
-- **알리바바 상품 임베딩** : https://cs.stanford.edu/~jure/pubs/node2vec-kdd16.pdf
+- **알리바바 상품 임베딩** : https://dl.acm.org/doi/pdf/10.1145/3219819.3219869
 > 알리바바에선 고객들 마다의 ***'클릭 행동 세션'*** 을 정의하고, 이를 Graph의 정의로 사용한 embedding 모델을 고려함
 
 - 위메프 내에서 기존의 상품 Embedding 방법은 상품의 타이틀을 통한 word-embedding 방법이었고, 때문에 상품의 word를 통해서만 상품의 유사도를 측정할 수 있었다.
